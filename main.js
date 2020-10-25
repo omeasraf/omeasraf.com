@@ -48839,29 +48839,29 @@ X.mA.prototype={}
 Y.p8.prototype={
 aH:function(){return new Y.CV(C.o)}}
 Y.CV.prototype={
-J:function(a,a0){var s,r,q,p,o,n,m,l=null,k=4281150765,j="https://github.com/omeasraf",i="https://www.linkedin.com/in/amiasraf/",h="LinkedIn",g="https://twitter.com/omeasraf",f="https://avatars2.githubusercontent.com/u/17995818?s=400&u=89802fc99c1d3275e9b7e731319e7a8a75287599&v=4",e="About me",d="I code!\n\nI\u2019ve always wanted to create things from nothing, so writing code is not only fun but it is also important for me. The joy of writing the first line of code for your new project never seems to fade away and it just seems so magical. I still remember the first line of code I ever wrote, it was nothing remarkable, just a simple 'print(\"hello world\")', but seeing the console output what I wrote was mind-blowing and I got hooked for life. I\u2019ve been coding since I was a 8th grade and I still enjoy coding as much as I did the time I wrote my first app.\n\nI taught myself how to write codes in Python, JavaScript, Java, Dart, HTML & CSS and I am currently learning Swift and C++. I plan on learning as many languages as I possibly can before deciding to stick with one that I love. I am currently studying Computer Systems (programming) at CityTech, and I\u2019ve managed to improve the programming skills and knowledge, but I am yet to learn a lot of things, so I am looking forward to all my classes. \n\nI\u2019ve never had a programming job, but I am passionate about any opportunities I get and I am hopeful I will be a useful asset at any place that gives me a chance.",c=t.fQ,b=!M.a_g(a0)?E.a0Y(K.aS(a0).z,new Q.yV(M.du(l,l,C.u,new P.H(k),l,l,l,2,new V.aN(8,0,8,0),l,l,l,l),new P.a3(1/0,5),l),0,l,T.mk(H.d([L.eV("OA",B.a1R(A.dk(l,l,new P.H(k),l,l,l,l,l,l,l,l,35,l,l,l,l,!0,l,l,l,l,l,l))),T.mk(H.d([R.kZ(a0,j,"Github",l),R.kZ(a0,i,h,l),R.kZ(a0,g,"Twitter",l),R.kZ(a0,"","Resume",l)],c),C.aR,C.jK,C.bo)],c),C.aR,C.jK,C.bo)):E.a0Y(K.aS(a0).z,l,l,new T.dB(new P.H(k),l,l),T.mk(H.d([L.eV("OA",B.a1R(A.dk(l,l,new P.H(k),l,l,l,l,l,l,l,l,35,l,l,l,l,!0,l,l,l,l,l,l))),T.fB(l,l,15)],c),C.aR,C.mi,C.bo))
-if(M.a_g(a0)){s=H.d([new T.wF(new S.cI(new P.H(k),l,l,l,l,l,C.L),C.ty,T.vR(L.eV("Projects view coming soon",A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l)),l,l),l),R.kZ(a0,j,"Github",50),R.kZ(a0,i,h,50),R.kZ(a0,g,"Twitter",50),R.kZ(a0,"","Resume",50)],c)
+J:function(a0,a1){var s,r,q,p,o,n,m,l=null,k=4281150765,j="https://github.com/omeasraf",i="https://www.linkedin.com/in/amiasraf/",h="LinkedIn",g="https://twitter.com/omeasraf",f="https://omeasraf.com/Resume/Ami%20Asraf%20-%20Resume.pdf",e="https://avatars2.githubusercontent.com/u/17995818?s=400&u=89802fc99c1d3275e9b7e731319e7a8a75287599&v=4",d="About me",c="I code!\n\nI\u2019ve always wanted to create things from nothing, so writing code is not only fun but it is also important for me. The joy of writing the first line of code for your new project never seems to fade away and it just seems so magical. I still remember the first line of code I ever wrote, it was nothing remarkable, just a simple 'print(\"hello world\")', but seeing the console output what I wrote was mind-blowing and I got hooked for life. I\u2019ve been coding since I was a 8th grade and I still enjoy coding as much as I did the time I wrote my first app.\n\nI taught myself how to write codes in Python, JavaScript, Java, Dart, HTML & CSS and I am currently learning Swift and C++. I plan on learning as many languages as I possibly can before deciding to stick with one that I love. I am currently studying Computer Systems (programming) at CityTech, and I\u2019ve managed to improve the programming skills and knowledge, but I am yet to learn a lot of things, so I am looking forward to all my classes. \n\nI\u2019ve never had a programming job, but I am passionate about any opportunities I get and I am hopeful I will be a useful asset at any place that gives me a chance.",b=t.fQ,a=!M.a_g(a1)?E.a0Y(K.aS(a1).z,new Q.yV(M.du(l,l,C.u,new P.H(k),l,l,l,2,new V.aN(8,0,8,0),l,l,l,l),new P.a3(1/0,5),l),0,l,T.mk(H.d([L.eV("OA",B.a1R(A.dk(l,l,new P.H(k),l,l,l,l,l,l,l,l,35,l,l,l,l,!0,l,l,l,l,l,l))),T.mk(H.d([R.kZ(a1,j,"Github",l),R.kZ(a1,i,h,l),R.kZ(a1,g,"Twitter",l),R.kZ(a1,f,"Resume",l)],b),C.aR,C.jK,C.bo)],b),C.aR,C.jK,C.bo)):E.a0Y(K.aS(a1).z,l,l,new T.dB(new P.H(k),l,l),T.mk(H.d([L.eV("OA",B.a1R(A.dk(l,l,new P.H(k),l,l,l,l,l,l,l,l,35,l,l,l,l,!0,l,l,l,l,l,l))),T.fB(l,l,15)],b),C.aR,C.mi,C.bo))
+if(M.a_g(a1)){s=H.d([new T.wF(new S.cI(new P.H(k),l,l,l,l,l,C.L),C.ty,T.vR(L.eV("Projects view coming soon",A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l)),l,l),l),R.kZ(a1,j,"Github",50),R.kZ(a1,i,h,50),R.kZ(a1,g,"Twitter",50),R.kZ(a1,f,"Resume",50)],b)
 r=P.aQ([null,0],t.st,t.S)
 q=s.length
 s=new Z.wD(new B.xG(new G.RQ(!0,!0,!0,s,r),C.by,C.l,!1,l,!0,C.rf,!1,l,q,C.az,C.xo,l,C.aQ,l),l)}else s=l
 r=t.ec
-if(M.a_g(a0)){q=K.fU(5)
-r=M.du(l,l,C.u,l,l,new S.cI(l,X.a1t(C.l0,new D.k7(f)),l,q,H.d([new O.ep(5,P.aR(C.O.av(127.5),158,158,158),new P.q(0,3),7)],r),l,C.L),l,400,l,l,l,l,300)
+if(M.a_g(a1)){q=K.fU(5)
+r=M.du(l,l,C.u,l,l,new S.cI(l,X.a1t(C.l0,new D.k7(e)),l,q,H.d([new O.ep(5,P.aR(C.O.av(127.5),158,158,158),new P.q(0,3),7)],r),l,C.L),l,400,l,l,l,l,300)
 q=T.fB(l,25,l)
 p=L.eV("Ome Asraf",Z.a5j(l,l,l,l,l,l,l,"LilyScriptOne",l,25,l,l,P.aQ([new Z.lx(C.v,C.lg),new F.p4("e8c1fa639d81f625fc5e1f8d3e2988ea5a29d0a6b0a0b6b6a617ee21af28ffc6",37524)],t.Aw,t.qt),l,l,l,l,l,l,l,l))
 o=T.fB(l,25,l)
 n=P.aR(C.O.av(178.5),45,45,45)
 m=K.fU(15)
-c=E.a32(T.vR(M.du(l,T.w3(H.d([r,q,p,o,M.du(l,T.w3(H.d([L.eV(e,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,18,l,C.ba,l,l,!0,l,l,l,l,l,l)),L.eV(d,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l))],c),C.aR,C.cO),C.u,l,l,new S.cI(n,l,l,m,l,l,C.L),l,l,l,new V.aN(15,15,15,15),l,l,l)],c),C.aR,C.cO),C.u,l,l,l,l,l,l,new V.aN(15,15,15,15),l,l,l),l,l))}else{q=T.fB(l,45,l)
-p=T.mk(H.d([new Y.ru("Ome",l),new Y.ru("Asraf",l)],c),C.l5,C.mi,C.bo)
-o=T.fB(l,l,F.bj(a0,!1).a.a/15)
-n=F.bj(a0,!1).a
+b=E.a32(T.vR(M.du(l,T.w3(H.d([r,q,p,o,M.du(l,T.w3(H.d([L.eV(d,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,18,l,C.ba,l,l,!0,l,l,l,l,l,l)),L.eV(c,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l))],b),C.aR,C.cO),C.u,l,l,new S.cI(n,l,l,m,l,l,C.L),l,l,l,new V.aN(15,15,15,15),l,l,l)],b),C.aR,C.cO),C.u,l,l,l,l,l,l,new V.aN(15,15,15,15),l,l,l),l,l))}else{q=T.fB(l,45,l)
+p=T.mk(H.d([new Y.ru("Ome",l),new Y.ru("Asraf",l)],b),C.l5,C.mi,C.bo)
+o=T.fB(l,l,F.bj(a1,!1).a.a/15)
+n=F.bj(a1,!1).a
 m=K.fU(5)
-n=T.mk(H.d([p,o,M.du(l,l,C.u,l,l,new S.cI(l,X.a1t(C.l0,new D.k7(f)),l,m,H.d([new O.ep(5,P.aR(C.O.av(127.5),158,158,158),new P.q(0,3),7)],r),l,C.L),l,450,l,l,l,l,n.a/4),T.fB(l,l,F.bj(a0,!1).a.a/15)],c),C.aR,C.cO,C.bo)
+n=T.mk(H.d([p,o,M.du(l,l,C.u,l,l,new S.cI(l,X.a1t(C.l0,new D.k7(e)),l,m,H.d([new O.ep(5,P.aR(C.O.av(127.5),158,158,158),new P.q(0,3),7)],r),l,C.L),l,450,l,l,l,l,n.a/4),T.fB(l,l,F.bj(a1,!1).a.a/15)],b),C.aR,C.cO,C.bo)
 r=P.aR(C.O.av(178.5),45,45,45)
 m=K.fU(15)
-o=F.bj(a0,!1).a
-c=E.a32(T.w3(H.d([q,T.mk(H.d([n,M.du(l,T.w3(H.d([L.eV(e,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,18,l,C.ba,l,l,!0,l,l,l,l,l,l)),L.eV(d,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l))],c),C.fR,C.cO),C.u,l,l,new S.cI(r,l,l,m,l,l,C.L),l,l,l,new V.aN(25,15,25,15),l,l,o.a/3)],c),C.aR,C.pa,C.bo)],c),C.fR,C.cO))}return new M.qC(b,c,s,l)}}
+o=F.bj(a1,!1).a
+b=E.a32(T.w3(H.d([q,T.mk(H.d([n,M.du(l,T.w3(H.d([L.eV(d,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,18,l,C.ba,l,l,!0,l,l,l,l,l,l)),L.eV(c,A.dk(l,l,C.j,l,l,l,l,l,l,l,l,l,l,l,l,l,!0,l,l,l,l,l,l))],b),C.fR,C.cO),C.u,l,l,new S.cI(r,l,l,m,l,l,C.L),l,l,l,new V.aN(25,15,25,15),l,l,o.a/3)],b),C.aR,C.pa,C.bo)],b),C.fR,C.cO))}return new M.qC(a,b,s,l)}}
 R.YR.prototype={
 $0:function(){var s=0,r=P.a2(t.P),q=this,p
 var $async$$0=P.Y(function(a,b){if(a===1)return P.a_(b,r)
